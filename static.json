@@ -1,7 +1,6 @@
 {
     "root" : "pulic",
     "clean_urls" : true,
-    "https_only" : true,
     "headers" : {
         "/**" :{
             "Access-Control-Allow-Origin" : "*"
